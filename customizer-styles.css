@@ -1,0 +1,12 @@
+/* Target the third customize-control-title element */
+.custom-section-control .customize-control-title {
+    display: block;
+    font-size: 19px;
+    line-height: 2;
+    font-weight: 600;
+    margin-bottom: 4px;
+    background-color: #aeaeae;
+    border-bottom: thin solid black;
+    padding-bottom: 5px;
+}
+
